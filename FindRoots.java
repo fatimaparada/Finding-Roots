@@ -1,6 +1,5 @@
 /*
 Author: Fatima Parada-Taboada
-Net id: fnp170130
 Program overview: This program finds the roots using the quadratic formula with values inputted by user.
 */ 
 
